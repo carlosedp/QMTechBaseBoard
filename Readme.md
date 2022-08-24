@@ -20,7 +20,7 @@ Each QMTech Kintex 7 core board contains:
 
 ## Project Plans
 
-Initially we plan on getting feedback from the community about which features would be useful in a board like this. We expect getting the feedback thru Github issues. If you have some suggestion for a part to be added, some additional feature or general idea, please open an Issue and describe it.
+Initially we plan on getting feedback from the community about which features would be useful in a board like this. We expect getting the feedback thru Github [discussions](https://github.com/carlosedp/QMTechBaseBoard/discussions) or issues. If you have some suggestion for a part to be added, some additional feature or general idea, please [create a new topic](https://github.com/carlosedp/QMTechBaseBoard/discussions/new) describing it.
 
 Also when defined, we need feedback from the community about which part/vendor to use. This is important since it's affected by availability and price.
 
