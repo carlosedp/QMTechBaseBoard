@@ -40,12 +40,12 @@ Some initial peripherals to be added:
 - 6 buttons for each core-board (6 pins)
 - 4 switches for each core-board (4 pins)
 - 8 LEDs for each core-board (8 pins)
-- 1x RGB LED for each core-board (3 pins)
+- 2 RGB LED for each core-board (6 pins)
 - Dual 7-pin SPI OLED (one for each board*) (5 pins)
 - Dual microSD card connector (one for each board) (6 pins)
 - Dual stereo audio connectors (one for each board) (4 pins)
 
-Total IO per core-board: 99 GPIO
+Total IO per core-board: 99 GPIO, Above peripherals using 98 pins.
 
 ## Ideas
 
